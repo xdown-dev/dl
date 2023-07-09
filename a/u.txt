@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/xdown-dev/dl@main/dl/windows/i386/xdown-2.0.5.2.zip --uri-defined-host-info "jsdelivr.map.fastly.net:443,151.101.109.229:443,146.75.113.229:443,104.16.89.20:443" --uri-defined-concurrent  16  --uri-defined-rr  1
+https://cdn.jsdelivr.net/gh/xdown-dev/dl@main/dl/windows/i386/xdown-2.0.5.3.zip --uri-defined-host-info "jsdelivr.map.fastly.net:443,151.101.109.229:443,146.75.113.229:443,104.16.89.20:443" --uri-defined-concurrent  16  --uri-defined-rr  1
