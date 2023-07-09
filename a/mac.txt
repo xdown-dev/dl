@@ -1,0 +1,4 @@
+2.0.1.2|1|https://dl.xdown.org/macOS/patch/patch-macos-2.0.2.3.zip --uri-defined-host-info "205.185.126.156:443,104.21.44.179:443,[2605:6400:20:1877::1]:443" --uri-defined-concurrent  16  --uri-defined-rr  1
+2.0.2.1|1|https://dl.xdown.org/macOS/patch/patch-macos-2.0.2.3.zip --uri-defined-host-info "205.185.126.156:443,104.21.44.179:443,[2605:6400:20:1877::1]:443" --uri-defined-concurrent  16  --uri-defined-rr  1
+2.0.2.2|1|https://dl.xdown.org/macOS/patch/patch-macos-2.0.2.3.zip --uri-defined-host-info "205.185.126.156:443,104.21.44.179:443,[2605:6400:20:1877::1]:443" --uri-defined-concurrent  16  --uri-defined-rr  1
+2.0.2.3|0|https://dl.xdown.org/macOS/patch/patch-macos-2.0.2.3.zip --uri-defined-host-info "205.185.126.156:443,104.21.44.179:443,[2605:6400:20:1877::1]:443" --uri-defined-concurrent  16  --uri-defined-rr  1

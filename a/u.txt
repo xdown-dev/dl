@@ -1,0 +1,1 @@
+https://dl.xdown.org/windows/i386/xdown-2.0.5.2.zip --uri-defined-host-info "37.123.193.150:443,205.185.126.156:443,104.21.44.179:443,[2605:6400:20:1877::1]:443" --uri-defined-concurrent  16  --uri-defined-rr  1
