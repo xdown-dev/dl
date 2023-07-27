@@ -52,3 +52,4 @@
 2.0.6.0|1|https://ghproxy.com/https://raw.githubusercontent.com/xdown-dev/dl/main/dl/windows/i386/xdown-2.0.6.2.zip --uri-defined-concurrent  16  --uri-defined-rr  1
 2.0.6.1|1|https://ghproxy.com/https://raw.githubusercontent.com/xdown-dev/dl/main/dl/windows/i386/xdown-2.0.6.2.zip --uri-defined-concurrent  16  --uri-defined-rr  1
 2.0.6.2|0|https://ghproxy.com/https://raw.githubusercontent.com/xdown-dev/dl/main/dl/windows/i386/xdown-2.0.6.2.zip --uri-defined-concurrent  16  --uri-defined-rr  1
+2.0.6.3|0|https://ghproxy.com/https://raw.githubusercontent.com/xdown-dev/dl/main/dl/windows/i386/xdown-2.0.6.2.zip --uri-defined-concurrent  16  --uri-defined-rr  1
