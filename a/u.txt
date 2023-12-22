@@ -1,1 +1,1 @@
-https://dl.xdown.dev/windows/i386/xdown-2.0.6.7.zip --uri-defined-concurrent  16  --uri-defined-rr  1
+https://dl.xdown.dev/windows/i386/xdown-2.0.6.8.zip --uri-defined-concurrent  16  --uri-defined-rr  1
