@@ -65,3 +65,4 @@
 2.0.7.3|1|https://dl.xdown.dev/windows/i386/xdown-2.0.7.5.zip --uri-defined-concurrent  16  --uri-defined-rr  1
 2.0.7.4|1|https://dl.xdown.dev/windows/i386/xdown-2.0.7.5.zip --uri-defined-concurrent  16  --uri-defined-rr  1
 2.0.7.5|0|https://dl.xdown.dev/windows/i386/xdown-2.0.7.5.zip --uri-defined-concurrent  16  --uri-defined-rr  1
+2.0.7.6|0|https://dl.xdown.dev/windows/i386/xdown-2.0.7.5.zip --uri-defined-concurrent  16  --uri-defined-rr  1
