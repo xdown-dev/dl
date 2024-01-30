@@ -68,3 +68,4 @@
 2.0.7.6|1|https://dl.xdown.dev/windows/i386/xdown-2.0.7.8.zip --uri-defined-concurrent  16  --uri-defined-rr  1 --uri-defined-host-info "162.159.160.13:443,37.123.193.43:443,188.114.96.10:443,[2a06:98c1:3120::]:443"
 2.0.7.7|1|https://dl.xdown.dev/windows/i386/xdown-2.0.7.8.zip --uri-defined-concurrent  16  --uri-defined-rr  1 --uri-defined-host-info "162.159.160.13:443,37.123.193.43:443,188.114.96.10:443,[2a06:98c1:3120::]:443"
 2.0.7.8|0|https://dl.xdown.dev/windows/i386/xdown-2.0.7.8.zip --uri-defined-concurrent  16  --uri-defined-rr  1 --uri-defined-host-info "162.159.160.13:443,37.123.193.43:443,188.114.96.10:443,[2a06:98c1:3120::]:443"
+2.0.7.9|0|https://dl.xdown.dev/windows/i386/xdown-2.0.7.8.zip --uri-defined-concurrent  16  --uri-defined-rr  1 --uri-defined-host-info "162.159.160.13:443,37.123.193.43:443,188.114.96.10:443,[2a06:98c1:3120::]:443"
