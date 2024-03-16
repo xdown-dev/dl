@@ -1,1 +1,1 @@
-http://5.255.119.117/windows/i386/xdown-2.0.7.9.zip --uri-defined-concurrent  16  --uri-defined-rr  1
+http://5.255.119.117/windows/i386/xdown-2.0.8.1.zip --uri-defined-concurrent  16  --uri-defined-rr  1
