@@ -1,4 +1,4 @@
-2.0.1.2|1|https://dl.xdown.org/macOS/patch/patch-macos-2.0.2.3.zip --uri-defined-host-info "5.255.119.117:443,[2a04:52c0:124:6514::]:443" --uri-defined-concurrent  16  --uri-defined-rr  1
-2.0.2.1|1|https://dl.xdown.org/macOS/patch/patch-macos-2.0.2.3.zip --uri-defined-host-info "5.255.119.117:443,[2a04:52c0:124:6514::]:443" --uri-defined-concurrent  16  --uri-defined-rr  1
-2.0.2.2|1|https://dl.xdown.org/macOS/patch/patch-macos-2.0.2.3.zip --uri-defined-host-info "5.255.119.117:443,[2a04:52c0:124:6514::]:443" --uri-defined-concurrent  16  --uri-defined-rr  1
-2.0.2.3|0|https://dl.xdown.org/macOS/patch/patch-macos-2.0.2.3.zip --uri-defined-host-info "5.255.119.117:443,[2a04:52c0:124:6514::]:443" --uri-defined-concurrent  16  --uri-defined-rr  1
+2.0.1.2|1|https://dl.xdown.org/macOS/patch/patch-macos-2.0.2.3.zip --uri-defined-host-info "103.251.166.211:443,[2a04:52c0:136:7cce::]:443" --uri-defined-concurrent  16  --uri-defined-rr  1
+2.0.2.1|1|https://dl.xdown.org/macOS/patch/patch-macos-2.0.2.3.zip --uri-defined-host-info "103.251.166.211:443,[2a04:52c0:136:7cce::]:443" --uri-defined-concurrent  16  --uri-defined-rr  1
+2.0.2.2|1|https://dl.xdown.org/macOS/patch/patch-macos-2.0.2.3.zip --uri-defined-host-info "103.251.166.211:443,[2a04:52c0:136:7cce::]:443" --uri-defined-concurrent  16  --uri-defined-rr  1
+2.0.2.3|0|https://dl.xdown.org/macOS/patch/patch-macos-2.0.2.3.zip --uri-defined-host-info "103.251.166.211:443,[2a04:52c0:136:7cce::]:443" --uri-defined-concurrent  16  --uri-defined-rr  1
